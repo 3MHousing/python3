@@ -1,11 +1,11 @@
-site_name: My Docs
+site_name: Tự học Python 3
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: 3MHousing/python3
+repo_url: https://github.com/3MHousing/python3
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2021 Martin Donath
+copyright: Copyright &copy; 2021 
 
 # Configuration
 theme:
